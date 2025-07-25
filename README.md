@@ -5,7 +5,7 @@
 ⚙️ Passionate about clean code & web optimization  
 📧 Email: [mehedihasan.codes3@gmail.com](mailto:mehedihasan.codes3@gmail.com)  
 🌱 Currently learning: JavaScript  
-🛠️ Tech Stack: HTML, CSS, Tailwind, JavaScript, Java, Git, GitHub
+🛠️ Tech Stack: HTML, CSS, Tailwind, JavaScript, Git, GitHub
 
 ---
 
