@@ -135,21 +135,7 @@
 
 </div>
 
-### **🚀 Full-Stack Development Journey**
 
-<div align="center">
-
-#### **📊 Learning Progress Dashboard**
-
-| **Skill Area** | **Technology** | **Progress** | **Next Steps** |
-|----------------|----------------|--------------|----------------|
-| **Modern Frontend** | Next.js 14 | ![75%](https://progress-bar.dev/75/?width=150&color=000000) | Master App Router |
-| **Backend Framework** | Express.js | ![65%](https://progress-bar.dev/65/?width=150&color=339933) | Build REST APIs |
-| **Type Safety** | TypeScript | ![70%](https://progress-bar.dev/70/?width=150&color=3178C6) | Advanced Patterns |
-| **Database** | MongoDB | ![60%](https://progress-bar.dev/60/?width=150&color=47A248) | Aggregation Pipeline |
-| **DevOps** | Docker | ![40%](https://progress-bar.dev/40/?width=150&color=2496ED) | Container Deployment |
-
-</div>
 
 #### **🌱 Current Learning Focus**
 
