@@ -135,19 +135,66 @@
 
 </div>
 
-### **🌱 Currently Learning:**
-- TypeScript integration with React
-- Advanced State Management (Redux/Context)
-- Performance Optimization Techniques
-- Testing (Jest, React Testing Library)
-- Docker & CI/CD Pipeline
+### **🚀 Full-Stack Development Journey**
 
-### **🚀 Short-term Goals:**
-- Complete 3 more full-stack projects
-- Contribute to 2 open-source projects
-- Master TypeScript fundamentals
-- Build a personal portfolio website
-- Participate in hackathons
+<div align="center">
+
+#### **📊 Learning Progress Dashboard**
+
+| **Skill Area** | **Technology** | **Progress** | **Next Steps** |
+|----------------|----------------|--------------|----------------|
+| **Modern Frontend** | Next.js 14 | ![75%](https://progress-bar.dev/75/?width=150&color=000000) | Master App Router |
+| **Backend Framework** | Express.js | ![65%](https://progress-bar.dev/65/?width=150&color=339933) | Build REST APIs |
+| **Type Safety** | TypeScript | ![70%](https://progress-bar.dev/70/?width=150&color=3178C6) | Advanced Patterns |
+| **Database** | MongoDB | ![60%](https://progress-bar.dev/60/?width=150&color=47A248) | Aggregation Pipeline |
+| **DevOps** | Docker | ![40%](https://progress-bar.dev/40/?width=150&color=2496ED) | Container Deployment |
+
+</div>
+
+#### **🌱 Current Learning Focus**
+
+**Next.js Development:**
+- ✅ App Router implementation
+- ✅ Server Components
+- 🔄 API Routes with TypeScript
+- 📚 Authentication (NextAuth)
+- 🎯 Deployment optimization
+
+**Express.js Backend:**
+- ✅ Basic routing and middleware
+- 🔄 REST API development
+- 📚 Database integration
+- 🎯 Error handling & validation
+- ⏳ Security implementation
+
+**Full-Stack Projects:**
+1. **Blog Platform with CMS** (Next.js + Express + MongoDB)
+2. **Task Management System** (Real-time features)
+3. **E-commerce Dashboard** (Admin panel + analytics)
+
+#### **🎯 Development Goals**
+
+```javascript
+const developmentGoals = {
+  immediate: [
+    "Complete Next.js App Router mastery",
+    "Build 2 full-stack applications",
+    "Implement JWT authentication flow",
+    "Master MongoDB aggregation"
+  ],
+  shortTerm: [
+    "Learn Express.js middleware patterns",
+    "Implement real-time features",
+    "Create reusable component library",
+    "Setup CI/CD pipeline"
+  ],
+  professional: [
+    "Deploy production applications",
+    "Optimize application performance",
+    "Implement testing strategies",
+    "Contribute to open-source"
+  ]
+};
 
 ---
 
