@@ -120,16 +120,18 @@
 | **Express.js** | Learning | ▰▰▰▰▰ 60% |
 ---
 
-## 🎯 Development Roadmap 2025
+## 🎯 Current Focus & Development Goals
 
 <div align="center">
 
-| **Phase** | **Technical Focus** | **Projects & Goals** | **Status** |
-|-----------|---------------------|----------------------|------------|
-| **Foundation**<br>Jan-Mar | MERN Stack Mastery<br>REST APIs<br>Authentication | Deploy 3 full-stack apps<br>Build authentication systems<br>Learn deployment strategies | 🔄 **Active** |
-| **Advanced Frontend**<br>Apr-Jun | TypeScript<br>Advanced React Patterns<br>State Management | Convert projects to TypeScript<br>Implement Redux Toolkit<br>Build complex UI components | 📅 **Q2 2025** |
-| **Open Source & DevOps**<br>Jul-Sep | Testing (Jest/RTL)<br>CI/CD<br>Code Architecture | Contribute to 2+ OSS projects<br>Setup GitHub Actions<br>Implement microservices | 📋 **Planned** |
-| **Career Growth**<br>Oct-Dec | System Design<br>Team Collaboration<br>Best Practices | Secure developer position<br>Lead project features<br>Mentor junior developers | 🎯 **Target** |
+| **Focus Area** | **Current Priority** | **Projects & Initiatives** | **Status** |
+|----------------|----------------------|----------------------------|------------|
+| **MERN Stack Mastery** | 🔥 **High Priority** | Blood Donation Platform<br>E-commerce Applications | 🚧 **Active Development** |
+| **TypeScript Integration** | 📚 **Learning Phase** | Converting JavaScript projects<br>Type-safe component library | 📖 **In Progress** |
+| **Advanced React Patterns** | 🎯 **Skill Building** | Custom hooks development<br>Performance optimization | 🔄 **Ongoing** |
+| **Backend Development** | ⚙️ **Expanding Skills** | REST API design<br>Database optimization | 📈 **Improving** |
+| **Open Source Contribution** | 🌱 **Future Focus** | GitHub projects contribution<br>Technical blogging | 📋 **Planned** |
+| **Professional Growth** | 💼 **Career Development** | Portfolio enhancement<br>Networking & interviews | 🎯 **Target** |
 
 </div>
 
