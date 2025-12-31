@@ -170,4 +170,3 @@
 - **Problem-focused development** — solve the right problem before writing code  
 - **Continuous improvement** — refactor, learn, and iterate with purpose
 
-};
