@@ -73,7 +73,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan53&theme=radical&hide_border=true&background=0D1117&fire=3B82F6&ring=3B82F6&currStreakLabel=3B82F6)
 
 </div> -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mehedihasan53)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mehedihasan53&theme=dark)](https://git.io/streak-stats)
 
 ---
 
