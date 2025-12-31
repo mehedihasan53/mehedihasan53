@@ -110,15 +110,14 @@
 
 ## 📈 Skills Progression
 
-| Skill | Proficiency | Status |
-|-------|-------------|---------|
-| **React.js** | Advanced | ![90%](https://progress-bar.dev/90?width=200&color=61DAFB&title=) |
-| **JavaScript (ES6+)** | Advanced | ![85%](https://progress-bar.dev/85?width=200&color=F7DF1E&title=) |
-| **Tailwind CSS** | Intermediate | ![80%](https://progress-bar.dev/80?width=200&color=06B6D4&title=) |
-| **Node.js** | Intermediate | ![70%](https://progress-bar.dev/70?width=200&color=339933&title=) |
-| **MongoDB** | Learning | ![65%](https://progress-bar.dev/65?width=200&color=47A248&title=) |
-| **Express.js** | Learning | ![60%](https://progress-bar.dev/60?width=200&color=000000&title=) |
-
+| Skill | Level | Proficiency |
+|-------|-------|-------------|
+| **React.js** | Advanced | ▰▰▰▰▰▰▰▰▰▰ 90% |
+| **JavaScript (ES6+)** | Advanced | ▰▰▰▰▰▰▰▰▰ 85% |
+| **Tailwind CSS** | Intermediate | ▰▰▰▰▰▰▰▰ 80% |
+| **Node.js** | Intermediate | ▰▰▰▰▰▰▰ 70% |
+| **MongoDB** | Learning | ▰▰▰▰▰▰ 65% |
+| **Express.js** | Learning | ▰▰▰▰▰ 60% |
 ---
 
 ## 🎯 Current Focus & Goals
