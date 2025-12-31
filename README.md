@@ -33,10 +33,7 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehedihasan53&color=3B82F6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mehedihasan53?color=3B82F6&label=Followers&style=flat-square" alt="GitHub Followers" />
-</p>
+
 
 ---
 
