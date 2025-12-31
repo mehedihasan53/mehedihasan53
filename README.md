@@ -120,16 +120,16 @@
 | **Express.js** | Learning | ▰▰▰▰▰ 60% |
 ---
 
-## 🎯 Current Focus & Goals
+## 🎯 Development Roadmap 2025
 
 <div align="center">
 
-| **Quarter** | **Focus Areas** | **Status** |
-|-------------|----------------|------------|
-| **Q1 2025** | Master MERN Stack & Deploy Full Projects | 🔥 **In Progress** |
-| **Q2 2025** | Learn TypeScript & Advanced React Patterns | 📚 **Up Next** |
-| **Q3 2025** | Contribute to Open Source & Build Portfolio | 🎯 **Planning** |
-| **Q4 2025** | Secure Developer Position & Team Collaboration | 💼 **Goal** |
+| **Phase** | **Technical Focus** | **Projects & Goals** | **Status** |
+|-----------|---------------------|----------------------|------------|
+| **Foundation**<br>Jan-Mar | MERN Stack Mastery<br>REST APIs<br>Authentication | Deploy 3 full-stack apps<br>Build authentication systems<br>Learn deployment strategies | 🔄 **Active** |
+| **Advanced Frontend**<br>Apr-Jun | TypeScript<br>Advanced React Patterns<br>State Management | Convert projects to TypeScript<br>Implement Redux Toolkit<br>Build complex UI components | 📅 **Q2 2025** |
+| **Open Source & DevOps**<br>Jul-Sep | Testing (Jest/RTL)<br>CI/CD<br>Code Architecture | Contribute to 2+ OSS projects<br>Setup GitHub Actions<br>Implement microservices | 📋 **Planned** |
+| **Career Growth**<br>Oct-Dec | System Design<br>Team Collaboration<br>Best Practices | Secure developer position<br>Lead project features<br>Mentor junior developers | 🎯 **Target** |
 
 </div>
 
