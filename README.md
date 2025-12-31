@@ -161,28 +161,13 @@
 
 ---
 
-## 🧠 Development Philosophy & Principles
+## 📝 Development Principles
 
-```typescript
-interface DeveloperMindset {
-  // Code Excellence
-  cleanCode: "Write code that humans can read, not just machines";
-  scalability: "Build systems that grow without breaking";
-  performance: "Optimize for speed without sacrificing maintainability";
-  
-  // User Focus
-  userExperience: "Create intuitive interfaces that solve real problems";
-  accessibility: "Build for everyone, regardless of ability";
-  mobileFirst: "Design for smallest screens first, scale up";
-  
-  // Technical Excellence
-  typeSafety: "Catch errors before runtime with TypeScript";
-  testDriven: "Write tests first, code second";
-  continuousIntegration: "Automate everything that can be automated";
-  
-  // Team & Growth
-  knowledgeSharing: "Grow together through code reviews and pair programming";
-  agileMindset: "Iterate quickly, learn constantly, adapt flexibly";
-  openSource: "Contribute back to the community that supports us";
-}
+- **Clarity over cleverness** — readable code matters more than fancy tricks  
+- **User-first thinking** — UI and features are designed around real user needs  
+- **Scalable structure** — components, APIs, and state are built to grow  
+- **Consistency** — naming, folder structure, and patterns stay predictable  
+- **Problem-focused development** — solve the right problem before writing code  
+- **Continuous improvement** — refactor, learn, and iterate with purpose
+
 };
