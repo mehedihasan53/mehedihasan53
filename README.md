@@ -169,7 +169,7 @@
 
 ## 📝 Development Principles
 
-- **Clarity over cleverness** — readable code matters more than fancy tricks 
+- **Clarity over cleverness** — readable code matters more than fancy tricks
 - **User-first thinking** — UI and features are designed around real user needs  
 - **Scalable structure** — components, APIs, and state are built to grow  
 - **Consistency** — naming, folder structure, and patterns stay predictable  
