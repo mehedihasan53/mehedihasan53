@@ -19,9 +19,13 @@
 ## 📬 Connect With Me
 
 <div align="center">
-    <a href="[https://cheery-eclair-c25ed1.netlify.app/]([https://mehedi-hasan-emon.netlify.app/](https://mehedi-hasan-emon.netlify.app/))" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio" />
-  </a>
+ <a href="https://mehedi-hasan-emon.netlify.app/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=appveyor&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+
   
   <a href="https://www.linkedin.com/in/mehedi-hasan-c3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
