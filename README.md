@@ -84,7 +84,7 @@
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Featured Projects 
 
 ### **🩸 Blood Donation Platform** | Full-Stack MERN Application
 *A comprehensive platform connecting blood donors with recipients in real-time*
