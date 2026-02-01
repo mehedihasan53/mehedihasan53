@@ -93,7 +93,7 @@
 - **Live Demo:** [🔗 View Project](https://snazzy-salamander-1be15f.netlify.app/)
 - **Code:** [Frontend](https://github.com/mehedihasan53/blood-donation-client) | [Backend](https://github.com/mehedihasan53/blood-donation-server)
 
-### **🐾 PawMart Pet Shop** | MERN E-commerce Platform
+### **🐾 PawMart Pet Shop** | MERN E-commerce Platforms
 *Full-featured pet supplies store with cart, authentication, and payment integration*
 - **Tech:** React, Node.js, MongoDB, Firebase, Stripe API
 - **Features:** Product catalog, Shopping cart, User authentication, Payment gateway
