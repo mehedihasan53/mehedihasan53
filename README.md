@@ -16,7 +16,7 @@
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect With Me 
 
 <div align="center">
  <a href="https://mehedi-hasan-emon.netlify.app/" target="_blank">
@@ -45,7 +45,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Expertise 
+## 🛠️ Tech Stack & Expertise
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
